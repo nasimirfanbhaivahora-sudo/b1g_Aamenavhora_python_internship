@@ -1,0 +1,2 @@
+Name: aamena
+Name: C:\Users\admin\.local\bin\python3.14.exe "c:/Users/admin/OneDrive/Documents/New folder/DAY13/task4_multiple_entries.py"
